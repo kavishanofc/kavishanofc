@@ -20,8 +20,8 @@
 
 
 
- <p align="center"> <a href="https://github.com/kavishanofc"><img src="https://github-profile-trophy.vercel.app/?username=kavishan0&no-bg=true&no-frame=false&theme=algolia"></a></p> 
+ <p align="center"> <a href="https://github.com/kavishanofc"><img src="https://github-profile-trophy.vercel.app/?username=kavishanofc&no-bg=true&no-frame=false&theme=algolia"></a></p> 
 
-<p align="center"> <a href="https://github.com/kavishanofc"><img  src="http://github-readme-streak-stats.herokuapp.com?user=kalana0&theme=github-dark-red&hide_border=false&background=DDD9DA00&stroke=FF0000&fire=FF0000&ring=FF0000&currStreakNum=FF0000&currStreakLabel=FF0000&sideLabels=FF0000&dates=FF0000&sideNums=FF0000"></a></p>
-<p align="center"> <a href="https://github.com/kavishanofc"><img src="https://github-readme-stats.vercel.app/api?username=kalana0&theme=algolia&bg_color=DDD9DA00&text_color=AAFF00&show_icons=TRUE&icon_color=AAFF00" > </a> </p>
-<p align="center"> <a href="https://github.com/kalana0"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalana0&hide=css,html&theme=algolia&bg_color=DDD9DA00&text_color=FF0000" > </a> </p>
+<p align="center"> <a href="https://github.com/kavishanofc"><img  src="http://github-readme-streak-stats.herokuapp.com?user=kavishanofc&theme=github-dark-red&hide_border=false&background=DDD9DA00&stroke=FF0000&fire=FF0000&ring=FF0000&currStreakNum=FF0000&currStreakLabel=FF0000&sideLabels=FF0000&dates=FF0000&sideNums=FF0000"></a></p>
+<p align="center"> <a href="https://github.com/kavishanofc"><img src="https://github-readme-stats.vercel.app/api?username=kavishanofc&theme=algolia&bg_color=DDD9DA00&text_color=AAFF00&show_icons=TRUE&icon_color=AAFF00" > </a> </p>
+<p align="center"> <a href="https://github.com/kavishanofc"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavishanofc&hide=css,html&theme=algolia&bg_color=DDD9DA00&text_color=FF0000" > </a> </p>
